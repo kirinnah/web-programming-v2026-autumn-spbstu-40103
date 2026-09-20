@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.menu {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.menu a {
+  text-decoration: none;
+  font-family: sans-serif;
+  border-radius: 8px;
+  color: #5757a0;
+  padding: 8px 16px;
+  background-color: lavender;
+  border-bottom: 4px solid #5757a0;
+}
+
+.menu li {
+  display: inline;
+}
+
+.menu .active {
+  background-color: #5757a0;
+  color: white;
+}
