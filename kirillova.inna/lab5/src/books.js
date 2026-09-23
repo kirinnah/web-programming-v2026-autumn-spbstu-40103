@@ -1,9 +1,9 @@
-import cover1 from './assets/book1.jpg';
-import cover2 from './assets/book2.jpg';
-import cover3 from './assets/book3.jpg';
-import cover4 from './assets/book4.jpg';
-import cover5 from './assets/book5.jpg';
-import cover6 from './assets/book6.jpg';
+import cover1 from '../assets/book1.jpg';
+import cover2 from '../assets/book2.jpg';
+import cover3 from '../assets/book3.jpg';
+import cover4 from '../assets/book4.jpg';
+import cover5 from '../assets/book5.jpg';
+import cover6 from '../assets/book6.jpg';
 
 export const books = [
   {
